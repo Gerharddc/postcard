@@ -1,8 +1,10 @@
-# Postcard
+# Postcard (With breaking updates)
 
 [![Documentation](https://docs.rs/postcard/badge.svg)](https://docs.rs/postcard)
 
 <img align="right" src="assets/logo-512.png" alt="the postcard logo" width=256px>
+
+**This branch is based on upstream Postcard but contains dependency updates causing breaking API changes. This should no longer be needed once Postcard 0.2 eventually drops.**
 
 Postcard is a `#![no_std]` focused serializer and deserializer for Serde.
 
